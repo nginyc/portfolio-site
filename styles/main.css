@@ -137,26 +137,28 @@ main {
   display: none;
 }
 
+.work_chirpey_box {
+  max-width: 600px;
+  margin: auto;
+}
+
 .work_chirpey_img_box {
   margin: 12px;
   text-align: center;
-}
-
-.work_chirpey_img {
-  max-width: 220px;
 }
 
 .work_screenshot_img {
   border: 1px solid #F0F0F0;
 }
 
+.projects_spence_box {
+  max-width: 300px;
+  margin: auto;
+}
+
 .projects_spence_img_box {
   margin: 12px;
   text-align: center;
-}
-
-.projects_spence_img {
-  max-width: 220px;
 }
 
 .projects_magna_caves_img_box {
