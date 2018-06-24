@@ -1,0 +1,61 @@
+/*
+ *
+ * Common
+ *
+ */
+ 
+body {
+  display: flex;
+}
+
+/*
+ *
+ * Header
+ *
+ */
+
+header {
+  min-width: 33.3%;
+  height: auto;
+  flex-direction: column;
+}
+
+.header__pic_box {
+  width: 50%;
+}
+
+.header__name_box {
+  width: 100%;
+  font-size: 20px;
+}
+
+.header__pic_img {
+  width: 160px;
+  border-width: 3px;
+}
+
+.header__name_about_me {
+  display: block;
+  margin: 20px 12px 20px;
+}
+
+/*
+ *
+ * Main
+ *
+ */
+
+main {
+  height: 100vh;
+}
+
+/*
+ *
+ * Footer
+ *
+ */
+
+footer  {
+  width: 33.3%;
+  box-shadow: none;
+}

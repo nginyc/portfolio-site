@@ -1,0 +1,38 @@
+/*
+ *
+ * Common
+ *
+ */
+ 
+h2 {
+  font-size: 32px;
+}
+
+/*
+ *
+ * Main
+ *
+ */
+
+.work_header_box {
+  display: flex;
+}
+
+.work_logo_box {
+  margin: 0 16px;
+  display: flex;
+  align-items: center;
+}
+
+.work_logo {
+  max-height: 72px;
+}
+
+.work_chirpey_box {
+  display: flex;
+  justify-content: space-around;
+}
+
+.work_chirpey_img_box {
+  margin: 0;
+}
